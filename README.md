@@ -1,7 +1,21 @@
 # BHP Detection — Banglore Home Price Prediction 🏡
 
 A small Flask backend + static frontend (HTML/JS) for estimating Bangalore home prices using a pre-trained model.
+# Bangalore Home Price Prediction 🏠
 
+This project predicts house prices in Bangalore using Machine Learning and Flask.
+
+## Tech Stack
+- Python
+- Flask
+- Scikit-learn
+- HTML, CSS, JavaScript
+- jQuery
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python app.py
 ---
 
 ## Quick Summary 
